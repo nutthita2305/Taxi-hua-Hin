@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nutthita2305.github.io/Taxi-hua-hin/sitemap.xml
